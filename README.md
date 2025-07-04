@@ -7,7 +7,7 @@
   <tr>
     <td>
       <p>
-        <h2>I'm a <span style="font-weight: bold; font-size: 28px;">Software Developer</span> with a passion for continuous learning and utilizing new tools to build impactful solutions.</h2>
+        I'm a Software Developer with a passion for continuous learning and utilizing new tools to build impactful solutions.
         <br><br>
         🌱 I’m currently learning <b>Networking</b> & <b>Cybersecurity</b><br>
         💬 Ask me about <b>Web Development, APIs, GCP, DSA</b><br>
