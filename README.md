@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFpbWlsMHIzM2YwemJ1YTIyeDNzeWN1d2E1dHV1eG5tZ29nMXlzbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" alt="Developer GIF" width="700"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3N2tyajBzbXN1djJjMmF1dnM4NHFlMWp4N2FmenM3emx4eTQ5a2NwbCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jVAt83ieT49H6ja5Ty/giphy.gif" alt="Header GIF" width="700"/>
 </p>
+
 <h1 align="center">Hey, it's YASH 👋</h1>
 
 <table>
