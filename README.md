@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFpbWlsMHIzM2YwemJ1YTIyeDNzeWN1d2E1dHV1eG5tZ29nMXlzbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif" alt="Welcome GIF" width="700"/>
+</p>
 <h1 align="center">Hey, it's YASH 👋</h1>
 <br>
 <br>
