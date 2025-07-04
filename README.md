@@ -2,13 +2,24 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFpbWlsMHIzM2YwemJ1YTIyeDNzeWN1d2E1dHV1eG5tZ29nMXlzbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" alt="Developer GIF" width="700"/>
 </p>
 
-<h1 align="center">Hey, it's YASH 👋</h1>
-
-<br>
-<br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFE1AFA&width=435&lines=Welcome+to+YASH's+git...;Tech+Enthusiast;Code+n+Coffee;Lets+Collaborate..." alt="Typing SVG" /></a>
-<br>
-I'm a Software Developer with a passion for continuous learning and utilizing new tools to build impactful solutions.<br><br>🌱 I’m currently learning NETWORKING , CYBER SECURITY<br><br>💬 Ask me about Web Development, API, GCP, DSA<br><br>📫 How to reach me yashsarkar165@gmail.com<br><br>⚡ Fun fact I'm a huge movie buff and love doing photography.
+<table>
+  <tr>
+    <td>
+      <h3>👋 Hey, it's YASH</h3>
+      <p>
+        I'm a Software Developer with a passion for continuous learning and utilizing new tools to build impactful solutions.
+        <br><br>
+        🌱 I’m currently learning <b>Networking</b> & <b>Cybersecurity</b><br>
+        💬 Ask me about <b>Web Development, APIs, GCP, DSA</b><br>
+        📫 Reach me at <a href="mailto:yashsarkar165@gmail.com">yashsarkar165@gmail.com</a><br>
+        ⚡ Fun fact: I’m a huge movie buff and love doing photography.
+      </p>
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aHd0Y3hhNmUzNG9nZ3AycXp3dWY0MXljOGllY3liMzNhYmczbWttNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/u2pmTWUi0MXjyrMaVj/giphy.gif" alt="Coding GIF" width="300"/>
+    </td>
+  </tr>
+</table>
 
 
 ## 🌐 Socials:
