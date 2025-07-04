@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Software Developer with a passion for continuous learning and utilizing new tools to build impactful solutions.<br>🌱 I’m currently learning NETWORKING , CYBER SECURITY<br><br>💬 Ask me about Web Development, API, GCP, DSA<br><br>📫 How to reach me yashsarkar165@gmail.com<br><br>⚡ Fun fact I'm a huge movie buff and love analyzing films for their photography.
+I'm a Software Developer with a passion for continuous learning and utilizing new tools to build impactful solutions.<br>🌱 I’m currently learning NETWORKING , CYBER SECURITY<br><br>💬 Ask me about Web Development, API, GCP, DSA<br><br>📫 How to reach me yashsarkar165@gmail.com<br><br>⚡ Fun fact I'm a huge movie buff and love doing photography.
 
 
 ## 🌐 Socials:
