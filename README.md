@@ -1,11 +1,11 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFpbWlsMHIzM2YwemJ1YTIyeDNzeWN1d2E1dHV1eG5tZ29nMXlzbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" alt="Developer GIF" width="700"/>
 </p>
+<h1 align="center">Hey, it's YASH 👋</h1>
 
 <table>
   <tr>
     <td>
-      <h3>👋 Hey, it's YASH</h3>
       <p>
         I'm a Software Developer with a passion for continuous learning and utilizing new tools to build impactful solutions.
         <br><br>
