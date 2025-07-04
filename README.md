@@ -8,6 +8,9 @@
   <tr>
     <td>
       <p>
+        <br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFE1AFA&width=435&lines=Welcome+to+YASH's+git...;Tech+Enthusiast;Code+n+Coffee;Lets+Collaborate..." alt="Typing SVG" /></a>
+        <br>
         I'm a Software Developer with a passion for continuous learning and utilizing new tools to build impactful solutions.
         <br><br>
         🌱 I’m currently learning <b>Networking</b> & <b>Cybersecurity</b><br>
