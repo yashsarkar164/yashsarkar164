@@ -1,7 +1,9 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFpbWlsMHIzM2YwemJ1YTIyeDNzeWN1d2E1dHV1eG5tZ29nMXlzbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/H03PuVdwREB21ANkLX/giphy.gif" alt="Welcome GIF" width="700"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHFpbWlsMHIzM2YwemJ1YTIyeDNzeWN1d2E1dHV1eG5tZ29nMXlzbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" alt="Developer GIF" width="700"/>
 </p>
+
 <h1 align="center">Hey, it's YASH 👋</h1>
+
 <br>
 <br>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFE1AFA&width=435&lines=Welcome+to+YASH's+git...;Tech+Enthusiast;Code+n+Coffee;Lets+Collaborate..." alt="Typing SVG" /></a>
