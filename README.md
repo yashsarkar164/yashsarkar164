@@ -14,7 +14,7 @@
         I'm a Software Developer with a passion for continuous learning and utilizing new tools to build impactful solutions.
         <br><br>
         🌱 I’m currently learning <b>Networking</b> & <b>Cybersecurity</b><br>
-        💬 Ask me about <b>Web Development, APIs, GCP, DSA</b><br>
+        💬 Ask me about <b>Web Development, APIs, CCNA , DSA</b><br>
         📫 Reach me at <a href="mailto:yashsarkar165@gmail.com">yashsarkar165@gmail.com</a><br>
         ⚡ Fun fact: I’m a huge movie buff and love doing photography.
       </p>
