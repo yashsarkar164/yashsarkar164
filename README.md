@@ -42,9 +42,6 @@
   
   <img src="https://komarev.com/ghpvc/?username=yashsarkar164&color=blue" />
 
-</div>
-
-<div>
-![snake gif](https://github.com/yashsarkar164/yashsarkar164/blob/output/github-snake-dark.svg)
+  ![snake gif](https://github.com/yashsarkar164/yashsarkar164/blob/output/github-snake-dark.svg)
 </div>
 
