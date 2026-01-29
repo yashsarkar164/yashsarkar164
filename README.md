@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGUyeWRkaXFtZGR1Mjd1MW54bWlvMzFpOXNqMXN4d25uM2trMHA0eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/yvJeRHsNRK0PvtBWj5/giphy.gif" alt="Header GIF" width="700"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxqem1lNDJ3M29hOWxuN3lta3kwZ3ZqbzdoMTUwcGIzbjlrZjNpeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/jp2K0PXrkaBO90tCaK/giphy.gif" alt="Header GIF" width="700"/>
 </p>
 
 <h1 align="center">Hey, it's YASH</h1>
