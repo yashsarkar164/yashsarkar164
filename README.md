@@ -28,7 +28,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yash.sarkar__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yasarkar99) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yashsarkar165@gmail.com)
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6046988" style='border:none;'></iframe>
+
 
 
 # 💻 Tech Stack:
